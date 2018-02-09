@@ -1,6 +1,6 @@
 " =============================================================================
 " File:          plugin/ctrlp_template.vim
-" Description:   Template for CtrlP extension.
+" Description:   CtrlP extension for template.
 " =============================================================================
 
 if exists('g:loaded_plugin_ctrlp_template') && (! exists('g:ctrlp_template#debug') )

@@ -1,6 +1,6 @@
 " =============================================================================
 " File:          autoload/ctrlp/template.vim
-" Description:   Template for CtrlP extension.
+" Description:   CtrlP extension for template.
 " =============================================================================
 
 " To load this extension into ctrlp, add this to your vimrc:
