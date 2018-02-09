@@ -54,17 +54,17 @@ let g:loaded_ctrlp_template = 1
 " + specinput: enable special inputs '..' and '@cd' (disabled by default)
 "
 call add(g:ctrlp_ext_vars, {
-  \ 'init': 'ctrlp#template#init()',
-  \ 'accept': 'ctrlp#template#accept',
-  \ 'lname': 'long statusline name',
-  \ 'sname': 'shortname',
-  \ 'type': 'line',
-  \ 'enter': 'ctrlp#template#enter()',
-  \ 'exit': 'ctrlp#template#exit()',
-  \ 'opts': 'ctrlp#template#opts()',
-  \ 'sort': 0,
-  \ 'specinput': 0,
-  \ })
+\ 'init': 'ctrlp#template#init()',
+\ 'accept': 'ctrlp#template#accept',
+\ 'lname': 'template',
+\ 'sname': 'template',
+\ 'type': 'line',
+\ 'enter': 'ctrlp#template#enter()',
+\ 'exit': 'ctrlp#template#exit()',
+\ 'opts': 'ctrlp#template#opts()',
+\ 'sort': 0,
+\ 'specinput': 0,
+\})
 
 
 " Provide a list of strings to search in
