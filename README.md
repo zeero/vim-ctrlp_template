@@ -1,2 +1,2 @@
 # vim-ctrlp_template
-CtrlP Plugin Template
+CtrlP extension for template.
