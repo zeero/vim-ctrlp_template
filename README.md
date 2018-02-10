@@ -1,3 +1,10 @@
+This is template for CtrlP Extension.
+Filenames and descriptions in template can be replaced with rake.
+```
+rake name=your_extension_name
+```
+Below is README template.
+---
 # vim-ctrlp_template
 CtrlP Extension for template.
 
