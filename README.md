@@ -16,9 +16,9 @@ Install with package manager.
 ```dein.toml
 [[plugin]]
 repo = 'zeero/vim-ctrlp_template'
+depends = ['ctrlp.vim']
 lazy = 1
 on_cmd = ['CtrlPTemplate']
-depends = ['ctrlp.vim']
 ```
 
 ## Usage
