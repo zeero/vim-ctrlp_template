@@ -14,7 +14,7 @@ set cpo&vim
 " Variables
 
 " Commands
-" command! CtrlPTemplate call ctrlp#init(ctrlp#template#id())
+command! CtrlPTemplate call ctrlp#init(ctrlp#template#id())
 
 " Keymaps
 
